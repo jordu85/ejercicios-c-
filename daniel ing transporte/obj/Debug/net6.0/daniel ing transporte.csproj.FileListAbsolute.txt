@@ -1,0 +1,15 @@
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\bin\Debug\net6.0\daniel ing transporte.exe
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\bin\Debug\net6.0\daniel ing transporte.deps.json
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\bin\Debug\net6.0\daniel ing transporte.runtimeconfig.json
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\bin\Debug\net6.0\daniel ing transporte.dll
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\bin\Debug\net6.0\ref\daniel ing transporte.dll
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\bin\Debug\net6.0\daniel ing transporte.pdb
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\obj\Debug\net6.0\daniel ing transporte.csproj.AssemblyReference.cache
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\obj\Debug\net6.0\daniel ing transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\obj\Debug\net6.0\daniel ing transporte.AssemblyInfoInputs.cache
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\obj\Debug\net6.0\daniel ing transporte.AssemblyInfo.cs
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\obj\Debug\net6.0\daniel ing transporte.csproj.CoreCompileInputs.cache
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\obj\Debug\net6.0\daniel ing transporte.dll
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\obj\Debug\net6.0\ref\daniel ing transporte.dll
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\obj\Debug\net6.0\daniel ing transporte.pdb
+C:\Users\jdusso\source\repos\daniel ing transporte\daniel ing transporte\obj\Debug\net6.0\daniel ing transporte.genruntimeconfig.cache
